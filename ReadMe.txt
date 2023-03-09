@@ -1,0 +1,1 @@
+This is my simple WebApi application to use it just run and in browser should be opened swagger there you will find Get method just click and click try it out 
